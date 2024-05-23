@@ -1,0 +1,53 @@
+.postCardDiv {
+  border: 0;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-top: 10px;
+  height: 300px;
+}
+.postCardMainBody {
+  display: flex;
+}
+
+.postCardTitle {
+  font-size: 20px;
+  padding: 5px 0;
+  line-height: 20px;
+  text-transform: none;
+  margin: 0;
+  font-family: pn-semibold;
+  white-space: normal;
+  font-weight: 600;
+  text-align: end;
+}
+.postCadrDescr {
+  font-size: 14px;
+  font-family: Roboto, sans-serif;
+  color: black;
+  overflow: hidden;
+}
+
+.postImg {
+  width: 300px;
+  margin-bottom: 20px;
+}
+.createFrom {
+  width: 500px;
+}
+.craetePostDiv {
+  display: flex !important;
+  height: 600px;
+  justify-content: center;
+}
+
+.upadetImageClass {
+  width: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.createFormMainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

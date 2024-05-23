@@ -1,0 +1,13 @@
+.fortDataDiv {
+  text-align: "center";
+  box-sizing: "content-box";
+  margin-top: 20px;
+}
+.fortDataDescription {
+  text-align: justify;
+  margin-bottom: 60px;
+}
+
+.googoleMapDiv {
+  margin-top: 30px;
+}

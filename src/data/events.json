@@ -1,0 +1,46 @@
+{
+    "Events": [
+      {
+        "id" : 1,
+        "image" : "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1673434766%2Frditugfqjlvfsbpgl40e.png",
+        "event_name": "Durgaraj Raigad",
+        "fort_name": "Raigad Fort",
+        "location": "Mahad, Raigad",
+        "date": "2022-01-22",
+        "duration_hours": 8,
+        "description": "Join us for an exciting trek to explore the historic Raigad Fort, the former capital of the Maratha Empire. This trek offers a glimpse into the rich history and stunning architecture of the fort. Participants will trek through rugged terrain and ascend to the summit, where they will be rewarded with panoramic views of the surrounding landscape."
+      },
+      {
+        "id" : 2,
+        "image" : "https://bhavyatafoundation.com/wp-content/uploads/2021/01/IMG-20201205-WA0014-1.jpg",
+         "event_name": "SunRise At Shivneri",
+        "fort_name": "Shivneri Fort",
+        "location": "Junnar, Pune",
+        "date": "2024-07-15",
+        "duration_hours": 6,
+        "description": "Experience the legacy of Chhatrapati Shivaji Maharaj with this heritage trail at Shivneri Fort. Learn about the history and significance of the fort as you explore its ancient structures and panoramic viewpoints. This trek is suitable for beginners and families, offering a blend of adventure and cultural exploration."
+      },
+      {
+        "id" : 3,
+        "image" : "https://mumbaihikers.org/wp-content/uploads/2022/06/3361_image_287637767_3291732147725463_3808037836108389705_n.jpg",
+        "event_name": "Aquarius Peak Adventure",
+        "fort_name": "Harishchandragad",
+        "location": "Ahilyanagar, Nashik",
+        "date": "2024-08-05",
+        "duration_hours": 12,
+        "description": "Embark on an adventurous night trek to Harishchandragad, a historic hill fort with ancient caves and temples. Trek under the starlit sky and witness the breathtaking sunrise from the fort summit. This challenging trek is recommended for experienced trekkers seeking a thrilling outdoor adventure."
+      },
+      {
+        "id": 4,
+        "image": "https://mumbaihikers.org/wp-content/uploads/2022/07/5256_image_292371975_5436620529735375_4413227006207771697_n.jpg",
+        "event_name": "Visapur Fort Trek",
+        "fort_name": "Visapur Fort",
+        "location": "Lonavala, Maharashtra",
+        "date": "2022-02-12",
+        "duration_hours": 6,
+        "description": "Embark on an adventurous trek to Visapur Fort, situated atop a picturesque hill near Vispaur. This trek is ideal for nature lovers and history enthusiasts alike. Participants will traverse lush green trails, explore ancient caves, and marvel at the fort's magnificent architecture. Don't miss this opportunity to experience the beauty and tranquility of Lohagad Fort."
+      }
+      
+    ]
+  }
+  

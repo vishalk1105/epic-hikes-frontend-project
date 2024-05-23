@@ -1,0 +1,41 @@
+.eventCardDiv {
+  height: 510px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.events p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.eventCardDiv:hover {
+  transform: translate3D(0, -1px, 0) scale(1.03);
+}
+.eventBodyDiv {
+  padding: 10px;
+}
+.cardEveTitle {
+  font-size: 20px !important;
+  padding: 5px 0;
+  line-height: 20px;
+  text-transform: none;
+  margin: 0;
+  font-family: pn-semibold;
+  white-space: normal;
+  font-weight: 600;
+  text-align: end;
+}
+.eveCardPlace,
+.eveDateDiv {
+  color: #4f4f4f;
+  font-weight: 600;
+}
+.eveDecriptionDiv {
+  font-size: 15px;
+  font-family: Roboto, sans-serif;
+  color: black;
+  font-style: italic;
+  margin-top: 10px;
+  overflow: hidden;
+  text-align: justify;
+}
